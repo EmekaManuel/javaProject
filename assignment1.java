@@ -5,11 +5,11 @@ import java.util.Scanner;
 public class assignment1 {
     public static void main(String[] args) {
 
-        Random generatedNumber = new Random();
-        int correctGuess = generatedNumber.nextInt(10);
-        int numberOfTrials = 0;
-        int guessValue;
-        int maxAttempts = 3; // Maximum number of attempts
+        Random Generated_Number = new Random();
+        int Correct_Guess = Generated_Number.nextInt(10);
+        int Number_Of_Trials = 0;
+        int Guess_Value;
+        int Max_Attempts = 3; // Maximum number of attempts
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter your name:");
@@ -23,25 +23,25 @@ public class assignment1 {
 
         System.out.println("Hello " + username + ", welcome to the guessing game"); //welcome message
 
-        for (int i = 1; i <= maxAttempts; i++) {
+        for (int i = 1; i <= Max_Attempts; i++) {
             System.out.println("Guess a number between 0 and 10:");
-            guessValue = scanner.nextInt();
-            numberOfTrials++;
+            Guess_Value = scanner.nextInt();
+            Number_Of_Trials++;
 
-            if (guessValue == correctGuess) {
+            if (Guess_Value == Correct_Guess) {
                 System.out.println(
-                        "Congratulations " + username + "! You guessed the number in " + numberOfTrials + " attempt");
+                        "Congratulations " + username + "! You guessed the number in " + Number_Of_Trials + " attempt");
                 break;
-            } else if (guessValue < correctGuess) {
+            } else if (Guess_Value < Correct_Guess) {
                 System.out.println("Your guess is too low");
             } else {
                 System.out.println("Your guess is too high");
             }
 
             // Check if the user has used all the attempts
-            if (i == maxAttempts) {
-                System.out.println("Sorry, " + username + ", you didn't guess the number in " + maxAttempts
-                        + " attempts. The correct number was " + correctGuess);
+            if (i == Max_Attempts) {
+                System.out.println("Sorry, " + username + ", you didn't guess the number in " + Max_Attempts
+                        + " attempts. The correct number was " + Correct_Guess);
             }
         }
 
