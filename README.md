@@ -1,4 +1,4 @@
-# Number Guessing Game
+# Number Guessing Game - Group 2
 
 
 This is a simple number guessing game implemented in Java, where the user tries to guess a randomly generated number.
