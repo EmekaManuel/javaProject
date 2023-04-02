@@ -1,6 +1,5 @@
 # Number Guessing Game - Group 2
 
-
 This is a simple number guessing game implemented in Java, where the user tries to guess a randomly generated number.
 
 # Installation
@@ -38,4 +37,4 @@ If you find any issues with the program or have suggestions for improvement, fee
 # Project Members
 
 Onyewuchi Emeka . 2019/242343
-
+Onukwu Francis . 2020/249371
