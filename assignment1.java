@@ -27,7 +27,8 @@ public class assignment1 {
             System.out.println("Guess a number between 0 and 10:");
             Guess_Value = scanner.nextInt();
             Number_Of_Trials++;
-
+// Check if the input the user put is the correct value or not
+            // then displays a congratulatory message if he did 
             if (Guess_Value == Correct_Guess) {
                 System.out.println(
                         "Congratulations " + username + "! You guessed the number in " + Number_Of_Trials + " attempt");
