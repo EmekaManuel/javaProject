@@ -1,6 +1,7 @@
 # Number Guessing Game - Group 2
 
 This is a simple number guessing game implemented in Java, where the user tries to guess a randomly generated number.
+The random number is changed after the maximum number of attempt is reached
 
 # Installation
 
@@ -16,6 +17,7 @@ Compile the program: assignment1.java
 
 Run the program
 
+The program will prompt the user to input his name in which would be used to call him when the game starts
 The program will prompt the user to input a guess, and will provide feedback on whether the guess is too high or too low. However, this program would stop running once the user reaches the meximum number of attempt.
 
 Note: The is a validation which prompts the user to input his / her name at the start of the program after which the other functionalities of this application would be accessible.
@@ -38,3 +40,4 @@ If you find any issues with the program or have suggestions for improvement, fee
 
 - Onyewuchi Emeka - 2019/242343
 - Onukwu Francis - 2020/249371
+- Akani John Praise - 2020/241361
