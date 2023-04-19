@@ -8,9 +8,12 @@ public class assignment1 {
         Random Generated_Number = new Random();
         int Correct_Guess = Generated_Number.nextInt(10);
         int Number_Of_Trials = 0;
-        int Guess_Value;
+        int Guess_Value; // The correct answer 
         int Max_Attempts = 5; // Maximum number of attempts
 
+        System.out.primtln("This is a Guessing Game. You will be asked to Guess a number five times.");
+        System.out.println(" If you get number correctly, you get a point, if not you get nothing");
+        
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter your name:");
         String username = scanner.nextLine();
