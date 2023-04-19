@@ -9,7 +9,7 @@ public class assignment1 {
         int Correct_Guess = Generated_Number.nextInt(10);
         int Number_Of_Trials = 0;
         int Guess_Value;
-        int Max_Attempts = 3; // Maximum number of attempts
+        int Max_Attempts = 5; // Maximum number of attempts
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter your name:");
@@ -21,7 +21,7 @@ public class assignment1 {
             username = scanner.nextLine();
         };
 
-        System.out.println("Hello " + username + ", welcome to the guessing game"); //welcome message
+        System.out.println("Hello " + username + "! Welcome to the guessing game."); //welcome message
 
         for (int i = 1; i <= Max_Attempts; i++) {
             System.out.println("Guess a number between 0 and 10:");
@@ -31,7 +31,7 @@ public class assignment1 {
             // then displays a congratulatory message if he did 
             if (Guess_Value == Correct_Guess) {
                 System.out.println(
-                        "Congratulations " + username + "! You guessed the number in " + Number_Of_Trials + " attempt");
+                        "Congratulations " + username + "! You rightly guessed the number in " + Number_Of_Trials + " attempt(s)");
                 break;
             } else if (Guess_Value < Correct_Guess) {
                 System.out.println("Your guess is too low");
