@@ -34,14 +34,14 @@ public class assignment1 {
                         "Congratulations " + username + "! You rightly guessed the number in " + Number_Of_Trials + " attempt(s)");
                 break;
             } else if (Guess_Value < Correct_Guess) {
-                System.out.println("Your guess is too low");
+                System.out.println("Your guess is below the mark");
             } else {
-                System.out.println("Your guess is too high");
+                System.out.println("Your guess is above the mark");
             }
 
             // Check if the user has used all the attempts
             if (i == Max_Attempts) {
-                System.out.println("Sorry, " + username + ", you didn't guess the number in " + Max_Attempts
+                System.out.println("Sorry, " + username + ", you couldn't guess the number in " + Max_Attempts
                         + " attempts. The correct number was " + Correct_Guess);
             }
         }
