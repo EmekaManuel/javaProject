@@ -44,3 +44,4 @@ If you find any issues with the program or have suggestions for improvement, fee
 - Ezeozue Chidinma Ifeoma - 2020/241181
 - Eze Chisom Victor - 2020/241365
 - Omaliko Chisom - 2021/248533
+- Nwangwu John Sinclair - 2020/247006
