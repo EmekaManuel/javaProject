@@ -1,4 +1,4 @@
-# Number Guessing Game - Group 2
+# Project Report for Group 2 - Guessing Game
 
 This is a simple number guessing game implemented in Java, where the user tries to guess a randomly generated number.
 The random number is changed after the maximum number of attempt is reached
@@ -20,7 +20,13 @@ Run the program
 The program will prompt the user to input his name in which would be used to call him when the game starts
 The program will prompt the user to input a guess, and will provide feedback on whether the guess is too high or too low. However, this program would stop running once the user reaches the meximum number of attempt.
 
-Note: The is a validation which prompts the user to input his / her name at the start of the program after which the other functionalities of this application would be accessible.
+Note: There is a validation which prompts the user to input his / her name at the start of the program after which the other functionalities of this application would be accessible.
+
+# Project Description
+
+JAVA programming language is a multipurpose object oriented programming language which was used to create the following project.
+The project at hand is a Simple Guessing Game using JAVA programming language. The project is built to generate a random number using the Random function, and compare it to entries taken from the user via the keyboard. If the user's guess is right, that is, if the comparison returns true, then the program tells the user that he or she got it right and the program ends. But if he or she doesn't get it right, even after 10 attempts, the game comes to an end and the user is told that he or she didn't get any of the guesses right.
+Also included in the project is a functionality to guide the user's guess, by telling him or her if he guessed too high or low, so as to increase the chances of getting the correct number.
 
 # Customization
 
@@ -56,7 +62,6 @@ If you find any issues with the program or have suggestions for improvement, fee
 - Chukwugbo Emmanuella Chimdindu - 2020/241208
 - Ella Anthony Richard - 2020/241339
 - Josiaiah Prince T - 2020/248512
-- Ndukwe Peter Ifejikochukwu - 2020/241163
 - Okoronta Grace Sopuruch - 2020/241186
 - George-OgeKalu Comfort - 2020/241349
 - Chikwem Donald - 2020/241241
