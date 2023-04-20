@@ -40,6 +40,8 @@ If you find any issues with the program or have suggestions for improvement, fee
 
 - Onyewuchi Emeka - 2019/242343
 - Onukwu Francis - 2020/249371
+- Ekwe Gideon Chizaramekpere - 2020/241207
+- Eze Chisom Victor - 2020/241365
 - Akani John Praise - 2020/241361
 - Ezeozue Chidinma Ifeoma - 2020/241181
 - Eze Chisom Victor - 2020/241365
