@@ -43,6 +43,10 @@ If you find any issues with the program or have suggestions for improvement, fee
 - Akani John Praise - 2020/241361
 - Ezeozue Chidinma Ifeoma - 2020/241181
 - Eze Chisom Victor - 2020/241365
+- Izum Chinyere Vera - 2020/241982
+- Chibuikem Samuel C. - 2020/241245
 - Omaliko Chisom - 2021/248533
 - Nwangwu John Sinclair - 2020/247006
 - Ezeokoli Greg Chijioke- 2020/241362
+- Okechukwu Favour Chinemerem -2020/241203
+- Chukwugbo Emmanuella Chimdindu - 2020/241208
