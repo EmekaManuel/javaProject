@@ -1,7 +1,13 @@
 # Number Guessing Game - Group 2
 
-This is a simple number guessing game implemented in Java, where the user tries to guess a randomly generated number.
-The random number is changed after the maximum number of attempt is reached
+This is a simple number guessing game implemented in Java, where the user tries to guess some randomly generated numbers.
+
+### Rules
+
+- You have five lives. Get it wrong five times and you lose
+- There are 10 random numbers. Some can be repetitions.
+- Non-digit characters default to 0
+- If multiple numbers are inserted only the first is picked
 
 # Installation
 
@@ -13,24 +19,21 @@ You would automativally be on the project directory: java-project-1
 
 # Usage
 
-Compile the program: assignment1.java
+Compile the program: Main.java
 
 Run the program
 
-The program will prompt the user to input his name in which would be used to call him when the game starts
-The program will prompt the user to input a guess, and will provide feedback on whether the guess is too high or too low. However, this program would stop running once the user reaches the meximum number of attempt.
+You have been called upon to retrieve high value information over the dark net. You will be prompted to input a number. If the number is correct (part of the random pin) you continue. If it's not you lose a life. You have only 5 lives. Once you correctly guess the entire pin you win.
 
-Note: The is a validation which prompts the user to input his / her name at the start of the program after which the other functionalities of this application would be accessible.
+
 
 # Customization
 
-The following variables can be customized in the assignment1.java file:
+The following variables can be customized in the Main.java file:
 
-Correct_Guess: The range of values for the randomly generated number (default: 10).
+Correct_Guess: The length of the password (default: 10).
 
-Number_Of_Trials: The maximum number of times a user attempted to get the correct guess.
-
-Max_Attempts: The maximum number of guesses allowed before the game ends (default: 3).
+Max_Attempts: The maximum number of guesses allowed before the game ends (default: 5).
 
 # Contributing
 
