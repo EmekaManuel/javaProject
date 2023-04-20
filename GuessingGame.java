@@ -38,6 +38,7 @@ public class GuessingGame {
             } else {
                 System.out.println("Your guess is too high");
             }
+            
 
             // Check if the user has used all the attempts
             if (i == Max_Attempts) {
@@ -45,6 +46,8 @@ public class GuessingGame {
                         + " attempts. The correct number was " + Correctguess);
             }
         }
+        
+        System.out.println("Thank you for playing");
 
         scanner.close();
     }
