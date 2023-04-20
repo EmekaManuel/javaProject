@@ -53,5 +53,6 @@ If you find any issues with the program or have suggestions for improvement, fee
 - Ezeokoli Greg Chijioke- 2020/241362
 - Okechukwu Favour Chinemerem -2020/241203
 - Chukwugbo Emmanuella Chimdindu - 2020/241208
+- Ella Anthony Richard - 2020/241339
 - Josiaiah Prince T - 2020/248512
 - Ndukwe Peter Ifejikochukwu - 2020/241163
