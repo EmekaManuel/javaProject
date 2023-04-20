@@ -40,9 +40,23 @@ If you find any issues with the program or have suggestions for improvement, fee
 
 - Onyewuchi Emeka - 2019/242343
 - Onukwu Francis - 2020/249371
+- Ekwe Gideon Chizaramekpere - 2020/241207
+- Eze Chisom Victor - 2020/241365
 - Akani John Praise - 2020/241361
 - Ezeozue Chidinma Ifeoma - 2020/241181
 - Eze Chisom Victor - 2020/241365
+- Izum Chinyere Vera - 2020/241982
+- Chibuikem Samuel C. - 2020/241245
 - Omaliko Chisom - 2021/248533
 - Nwangwu John Sinclair - 2020/247006
 - Ndukwe Peter Ifejikochukwu - 2020/241163
+- Nwogu Michael - 2020/248964
+- Ezeokoli Greg Chijioke- 2020/241362
+- Okechukwu Favour Chinemerem -2020/241203
+- Chukwugbo Emmanuella Chimdindu - 2020/241208
+- Ella Anthony Richard - 2020/241339
+- Josiaiah Prince T - 2020/248512
+- Ndukwe Peter Ifejikochukwu - 2020/241163
+- Okoronta Grace Sopuruch - 2020/241186
+- George-OgeKalu Comfort - 2020/241349
+- Chikwem Donald - 2020/241241
