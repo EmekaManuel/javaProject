@@ -49,6 +49,7 @@ If you find any issues with the program or have suggestions for improvement, fee
 - Chibuikem Samuel C. - 2020/241245
 - Omaliko Chisom - 2021/248533
 - Nwangwu John Sinclair - 2020/247006
+- Ndukwe Peter Ifejikochukwu - 2020/241163
 - Nwogu Michael - 2020/248964
 - Ezeokoli Greg Chijioke- 2020/241362
 - Okechukwu Favour Chinemerem -2020/241203
