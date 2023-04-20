@@ -9,7 +9,7 @@ public class GuessingGame {
         int Correctguess = NumberGenerated.nextInt(15);
         int NumberTried = 0;
         int NumberGuessed;
-        int Max_Attempts = 5; // This is the Maximum Number of attempts
+        int Max_Attempts = 10; // This is the Maximum Number of attempts
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter your name:");
